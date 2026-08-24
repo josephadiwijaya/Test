@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+format: html
+---
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+This is a test for a quarto document
